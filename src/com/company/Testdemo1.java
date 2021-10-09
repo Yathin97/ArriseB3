@@ -14,6 +14,8 @@ public class Testdemo1 {
         myd.manage().window().maximize();
         String vTtitle = myd.getTitle();
         System.out.println(vTtitle);
+        System.out.println(vTtitle);
+        System.out.println(vTtitle);
 
 
     }
